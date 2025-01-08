@@ -1,5 +1,5 @@
 # tree-sitter-ck2txt
-A tree sitter plugin for CK2 files. Should other for other PDX titles as well.
+A tree sitter plugin for CK2 files. Should work for other PDX titles as well.
 
 # Usage
 ## With NeoVim (using Lazy)
